@@ -1,0 +1,45 @@
+{
+  "id": "0faf512c-7a06-413b-bb70-cef4fe7f6d04",
+  "name": "CambioFechaEntregaProv",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+ "dependencies": [
+
+    { 
+      "id": "15fc8b65-8fb9-4797-9cc8-99e1eb8dbb29",
+      "name": "Proquinorte-Funcionalidad",
+      "publisher": "Mitra Global Services, S.L.",
+      "version": "1.0.2.142"
+    },
+    {
+      "id": "543bde89-0d5f-4fde-aff5-cc7d0bb96ac8",
+      "name": "W02-WebAL",
+      "publisher": "PQN - TxaberyMarcelo",
+      "version": "1.0.0.37"
+    }],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50791,
+      "to": 50793
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
